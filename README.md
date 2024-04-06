@@ -14,17 +14,41 @@ Before you begin, ensure you have met the following requirements:
 - React
 - Python interpreter
 
-## Cloning the Repository
-
-To clone the repository, use the following command:
-
-```bash
-git clone https://github.com/steven3002/Guild.git
-```
 ## Installation
 
+1. Clone the repository using the following command:
+
+    ```bash
+    git clone https://github.com/steven3002/Guild.git
+    ```
+
+2. Navigate to the directory containing the Dockerfile using the following command:
+
+    ```bash
+    cd /guild#
+    ```
+
+3. Build the Docker image using the following command:
+
+    ```bash
+    docker build --tag <image_name>.
+    ```
+
+    Replace `<image_name>` with the desired name for your Docker image.
 
 
 ## Usage
+
+
+
+## Contributing
+
+
+
+## License
+
+
+
+## Acknowledgements
 
 
