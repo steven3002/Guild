@@ -1,4 +1,4 @@
-# Project Name
+# Guild
 
 ## Overview
 
@@ -19,8 +19,8 @@ Before you begin, ensure you have met the following requirements:
 To clone the repository, use the following command:
 
 ```bash
-git clone <repository_url>
-
+git clone https://github.com/steven3002/Guild.git
+```
 ## Installation
 
 
